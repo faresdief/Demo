@@ -2,6 +2,8 @@
 
 منيو أونلاين لمطعم السلطان جريل: العميل يشوف المنيو، يجمع طلبه في السلة، ويبعته على واتساب المطعم. An online menu for El Sultan Grill: browse the menu, add items to the cart, and send the order to the restaurant on WhatsApp.
 
+**Live demo:** https://faresdief.github.io/Demo/
+
 ## المميزات | Features
 
 - منيو مع الأسعار بالجنيه المصري. Menu with prices in Egyptian Pounds.
